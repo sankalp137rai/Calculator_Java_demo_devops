@@ -22,7 +22,7 @@ public class DemoCalculatorSpeApplication {
 		Scanner scanner = new Scanner(System.in);
 		double num1, num2;
 		do {
-			System.out.println("Hello world!!!");
+			System.out.println("Hello world !!!");
 			System.out.println("Calculator using DevOps. \n Choose:");
 			System.out.print("1. Factorial\n2. Square root\n3. Power\n4. Natural Logarithm\n" +
 					"5. Exit\nEnter your choice: ");
